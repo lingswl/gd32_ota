@@ -1,0 +1,9 @@
+.\objects\gd32f10x_fmc.o: ..\firmware\driver\src\gd32f10x_fmc.c
+.\objects\gd32f10x_fmc.o: ..\firmware\driver\inc\gd32f10x_fmc.h
+.\objects\gd32f10x_fmc.o: ..\firmware\cmsis\gd32f10x.h
+.\objects\gd32f10x_fmc.o: ..\firmware\cmsis\core_cm3.h
+.\objects\gd32f10x_fmc.o: D:\works\ST\keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gd32f10x_fmc.o: ..\firmware\cmsis\core_cmInstr.h
+.\objects\gd32f10x_fmc.o: ..\firmware\cmsis\core_cmFunc.h
+.\objects\gd32f10x_fmc.o: ..\firmware\cmsis\system_gd32f10x.h
+.\objects\gd32f10x_fmc.o: D:\works\ST\keil\Pack\GigaDevice\GD32F10x_DFP\2.3.0\Device\Include\gd32f10x_libopt.h
