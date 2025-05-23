@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "gd32f10x.h": "c",
-        "gd32f10x_rcu.h": "c",
-        "gd32f10x_bkp.h": "c",
-        "gd32f10x_usart.h": "c",
-        "driver_uart.h": "c"
-    }
-}
